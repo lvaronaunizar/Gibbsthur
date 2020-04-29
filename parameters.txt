@@ -1,0 +1,18 @@
+datos.txt data file
+genea.txt pedigree file
+3 Number of effects (including animal)
+0 number of covariables
+1 Number of genetic groups
+2 Number of total traits (continous + threshold + thrustonian)
+0 Number of threshold traits
+0 Categories for the threshold traits
+1 Number of thrustonian traits 
+2 Location of competition effects (number of thrustonian traits) must be a systematic effect (not random)
+0 Number of random environmental effects
+1 Number of animal effects
+1 2000 2600 Levels for each effect (for animals do not include genetic group)
+1 0 1 Model for trait 1
+1 1 1 
+1000 iterations
+100 burn in
+1 lap
